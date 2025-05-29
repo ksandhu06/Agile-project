@@ -14,4 +14,4 @@ Meeting Minutes Iteration 3
 
 Stakeholder Register
 
-<a href="file:///C:/Users/sandh/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Stakeholder%20register%20sample.pdf">Stakeholder Register</a>
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/Stakeholder%20register%20sample.pdf">Stakeholder Register</a>
