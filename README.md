@@ -5,7 +5,7 @@ Risk Register
 
 Meeting Minutes Iteration 1
 
-<a href="file:///Users/divikmudliar/Downloads/Iteration%201%20Meeting%20Minutes.pdf">Meeting Minutes I-1</a>
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/Iteration%201%20Meeting%20Minutes.pdf">Meeting Minutes I-1</a>
 
 
 Meeting Minutes Iteration 3
