@@ -12,3 +12,6 @@ Meeting Minutes Iteration 3
 
 <a href="https://github.com/ksandhu06/Agile-project/blob/main/risk_register%20week%2011.pdf">Meeting Minutes I-3</a>
 
+Stakeholder Register
+
+<a href="file:///C:/Users/sandh/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Stakeholder%20register%20sample.pdf">Stakeholder Register</a>
