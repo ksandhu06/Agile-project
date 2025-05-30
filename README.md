@@ -37,3 +37,7 @@ Person 3
 Resource Requirement list
 
 <a href="https://github.com/ksandhu06/Agile-project/blob/main/resource_needs.pdf">Resource Requirement list</a>
+
+User Acceptance
+
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/User%20Acceptance%20Tests%20(1).pdf">User acceptance</a>
