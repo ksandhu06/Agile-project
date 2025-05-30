@@ -25,3 +25,7 @@ Stakeholder Register
 Persona 1
 
 <a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%20TEMPLATE%20(1).pdf">Persona 1</a>
+
+Person 3
+
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%20TEMPLATE%20(1).pdf">Persona 1</a>
