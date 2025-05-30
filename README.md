@@ -33,3 +33,7 @@ Persona 2
 Person 3
 
 <a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%203.pdf">Persona 3</a>
+
+Resource Requirement list
+
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/resource_needs.pdf">Resource Requirement list</a>
