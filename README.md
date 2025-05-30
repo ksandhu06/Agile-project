@@ -32,4 +32,4 @@ Persona 2
 
 Person 3
 
-<a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%20TEMPLATE%20(1).pdf">Persona 3</a>
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%203.pdf">Persona 3</a>
