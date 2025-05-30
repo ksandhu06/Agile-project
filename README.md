@@ -21,3 +21,7 @@ Meeting Minutes Iteration 3
 Stakeholder Register 
 
 <a href="https://github.com/ksandhu06/Agile-project/blob/main/Stakeholder%20register%20sample.pdf">Stakeholder Register</a>
+
+Persona 1
+
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%20TEMPLATE%20(1).pdf">Persona 1</a>
