@@ -40,4 +40,4 @@ Resource Requirement list
 
 User Acceptance
 
-<a href="https://github.com/ksandhu06/Agile-project/blob/main/User%20Acceptance%20Tests%20(1).pdf">User acceptance</a>
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/User%20Acceptance%20Tests%20.xlsx">User acceptance</a>
