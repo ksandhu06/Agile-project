@@ -36,7 +36,7 @@ Person 3
 
 Ganttchart
 
-<a href="[https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%203.pdf](https://github.com/ksandhu06/Agile-project/blob/main/Agile%20Gantt%20chart.pdf)">Persona 3</a>
+<a href="https://github.com/ksandhu06/Agile-project/blob/main/PERSONA%203.pdf](https://github.com/ksandhu06/Agile-project/blob/main/Agile%20Gantt%20chart.pdf">Gantt Chart</a>
 
 
 Resource Requirement list
